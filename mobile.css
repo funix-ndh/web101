@@ -1,0 +1,141 @@
+.blue-text {
+  color: #076fda !important;
+}
+.navbar-brand {
+  font-size: 1.5em;
+}
+.image-responsive {
+  margin: 0 -15px 20px -15px;
+}
+.title-section {
+  font-size: 1.2em;
+}
+.title-section::before {
+  color: #076fda;
+  margin-right: 20px;
+  content: "_____";
+  font-weight: bold;
+}
+section {
+  padding: 40px 0;
+}
+#our-business {
+  color: white;
+}
+#our-business div {
+  padding: 0px;
+}
+#our-business .title-section::before {
+  color: inherit;
+}
+#our-business header p {
+  text-align: center;
+}
+#our-business .inside img {
+  width: 50px;
+  height: 50px;
+}
+#our-business .inside {
+  position: absolute;
+  padding: 10px;
+  top: 0;
+}
+.no-margin {
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+.overflow-hidden {
+  overflow: hidden;
+}
+#image-our-business {
+  height: 550px;
+}
+.content-our-business {
+  text-align: center;
+}
+.news {
+  margin: 10px 0 10px 0;
+  border: 2px solid #0000002e;
+}
+.news-content {
+  padding: 10px;
+}
+.contact-input {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.contact-map {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+#footer {
+  background-color: black;
+  color: #cacaca;
+  padding: 20px;
+  margin: 0 -15px 0 -15px;
+}
+#footer ul {
+  margin: 0;
+  padding: 0;
+}
+#footer li {
+  list-style-type: none;
+  margin: 5px 0;
+}
+#footer li a {
+  margin-left: 5px;
+}
+#footer li a:hover {
+  text-decoration: none;
+  color: yellow;
+}
+#footer li a:link, li a:visited, li a:active {
+  text-decoration: none;
+  color: inherit;
+}
+hr {
+  border-top: 1px solid white;
+}
+.heading-title::after {
+  content: "____";
+  color: #076fda;
+  margin-bottom: 30px;
+}
+#about-us-page p {
+  font-size: 1.25rem;
+  font-weight: 300;
+}
+#about-us-page img {
+  width: 250px;
+  height: 320px;
+}
+#our-business-page p {
+  font-size: 1.25rem;
+  font-weight: 300;
+}
+.news-post {
+  border-bottom: 1px solid gray;
+  font-weight: 500;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.news-post-img {
+  width: 100px;
+  height: 100px;
+}
+.news-post-container {
+  padding-left: 15px;
+  padding-right: 15px;
+}
+#contact-us div.row {
+  margin-bottom: 20px;
+}
+#map {
+  width: 100%;
+}
+#contact-page label:before {
+  content: "\2022";
+  margin-right: 15px;
+}

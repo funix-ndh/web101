@@ -1,0 +1,43 @@
+@media (min-width: 576px) {
+  .blue-text {
+    color: white !important;
+  }
+  nav {
+    background: #076fda;
+    padding: 20px 45px !important;
+    margin: 0 -15px 0 -15px;
+  }
+  nav a {
+    color: white !important;
+  }
+  nav a.search {
+    order: 13;
+    -ms-flex-order: 13;
+  }
+  section {
+    padding: 30px;
+  }
+  #our-business header p {
+   text-align: left;
+  }
+  .content-our-business {
+   text-align: left;
+  }
+  #our-business .inside {
+    padding: 40px;
+  }
+  #image-our-business {
+    height: 400px;
+  }
+  .content-our-business {
+    margin-left: 20px;
+  }
+  li a:hover {
+    text-decoration: none;
+    color: yellow !important;
+  }
+  .news-post-img {
+    width: 100%;
+  }
+}
+
